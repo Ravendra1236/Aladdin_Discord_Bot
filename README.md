@@ -1,6 +1,6 @@
-# Aladdin: Discord Search Bot
+# AskAladdin: Discord Search Bot
 
-**Aladdin** is a Discord bot that provides fast, intelligent, and relevant search results using the `/search <prompt>` command. It integrates with the **Grauq API** to process queries and deliver accurate information directly within Discord.
+**AskAladdin** is a Discord bot that provides fast, intelligent, and relevant search results using the `/search <prompt>` command. It integrates with the **Grauq API** to process queries and deliver accurate information directly within Discord.
 
 ## Features
 
@@ -10,12 +10,12 @@
 
 ## Technology Stack
 
-- **Backend**: Aladdin's server is built with **Express** and **Node.js**, offering a scalable solution capable of efficiently handling multiple requests.
+- **Backend**: AskAladdin's server is built with **Express** and **Node.js**, offering a scalable solution capable of efficiently handling multiple requests.
 - **API Integration**: Aladdin integrates with the **Grauq API** for query processing and retrieval of accurate information.
 
 ## Installation
 
-Follow these steps to install and run Aladdin:
+Follow these steps to install and run AskAladdin:
 
 1. **Clone the repository:**
    ```bash
